@@ -1,3 +1,3 @@
 # Input_Switch_8X
 
-![image](./)
+![image](./Input_Switch_8X.png)
