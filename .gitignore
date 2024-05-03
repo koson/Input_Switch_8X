@@ -28,3 +28,5 @@ fp-info-cache
 *.xml
 *.csv
 \#auto_saved_files\#
+*.lck
+*.lck

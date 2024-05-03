@@ -8,7 +8,7 @@
 	(property "Reference" "REF**"
 		(at 0 -4.2 0)
 		(layer "F.SilkS")
-		(uuid "41534f33-17f2-48e0-88fb-76f02dd07c17")
+		(uuid "896b1b42-18ea-4d80-b52b-bbc96845266f")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 	(property "Value" "MountingHole_Pad"
 		(at 0 4.2 0)
 		(layer "F.Fab")
-		(uuid "c2186df6-e8dd-4e19-a38a-1a85571c76a0")
+		(uuid "80ef24e3-62cb-4ad9-a52b-71eb161be6f9")
 		(effects
 			(font
 				(size 1 1)
@@ -27,12 +27,12 @@
 			)
 		)
 	)
-	(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+	(property "Footprint" "Library:MountingHole_3.2mm_M3_Pad_Via"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "fe6743df-cbfd-4d3c-b3b8-12a91eba4f07")
+		(uuid "71cef6bf-cf67-4709-af7e-5f6a6fb95812")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "7c33e3bb-87e3-414e-bf11-1edc18feb042")
+		(uuid "7b5124b7-de43-4f15-bdbc-5ddc74c52802")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -56,7 +56,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "d1ce6a4c-31bc-4d20-8938-2c55e7153d55")
+		(uuid "71917496-1713-453e-9b7a-d635d9a3c6de")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -67,7 +67,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "49b50a5b-60b0-43b1-821e-314a2c67a5c3")
+		(uuid "39ec28eb-4784-4e64-8ddf-822e43b7f4e7")
 		(effects
 			(font
 				(size 1 1)
@@ -85,7 +85,7 @@
 		)
 		(fill none)
 		(layer "Cmts.User")
-		(uuid "df17c366-e738-4376-bf13-4f6bb6a5d86e")
+		(uuid "1485e8b5-75bc-46bc-a9aa-e8a25401a9d6")
 	)
 	(fp_circle
 		(center 0 0)
@@ -96,12 +96,12 @@
 		)
 		(fill none)
 		(layer "F.CrtYd")
-		(uuid "747c77fb-e813-4243-8dd0-15ee66814c04")
+		(uuid "b26fda17-0391-49ab-b620-2b7e5096eb10")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "c648cedd-09b0-4f8b-9dd0-d0f1c9a55c02")
+		(uuid "056788bd-d127-4850-bd96-4d0bf3241414")
 		(effects
 			(font
 				(size 1 1)
@@ -115,7 +115,7 @@
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "456e1aa9-a664-4d12-a806-496da34f027c")
+		(uuid "a24ad577-5674-4ce7-9f76-5ad5f526c0f5")
 	)
 	(pad "1" thru_hole circle
 		(at -1.697056 -1.697056)
@@ -123,7 +123,7 @@
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "0ee0bfe0-9492-4434-8b48-c2a9067f36e8")
+		(uuid "60b1a96d-caf0-465d-a34f-7bb4b0b2d3aa")
 	)
 	(pad "1" thru_hole circle
 		(at -1.697056 1.697056)
@@ -131,7 +131,7 @@
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "3c7bf322-9456-45dc-a0a4-945dcc85c97c")
+		(uuid "391c8bc9-47a9-4b64-8a31-b917b9ede5fd")
 	)
 	(pad "1" thru_hole circle
 		(at 0 -2.4)
@@ -139,7 +139,7 @@
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "16cc4da0-2e82-4aa8-991f-367b0ce64478")
+		(uuid "b0123e4e-10a3-4a27-885c-574997d99776")
 	)
 	(pad "1" thru_hole circle
 		(at 0 0)
@@ -147,7 +147,7 @@
 		(drill 3.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "12bb6569-cf05-47d2-9888-924685616f3a")
+		(uuid "fe1f5657-dcb6-4400-8eb8-67f68670b822")
 	)
 	(pad "1" thru_hole circle
 		(at 0 2.4)
@@ -155,7 +155,7 @@
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "755469ff-7026-4083-9e50-6f84ab9853c2")
+		(uuid "af386298-6120-42b8-90e5-1c740434b92f")
 	)
 	(pad "1" thru_hole circle
 		(at 1.697056 -1.697056)
@@ -163,7 +163,7 @@
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "f15accf7-916d-4095-a8a2-9bccd32d16ec")
+		(uuid "ee886e5c-5d43-4d70-a3ff-a96b51958de4")
 	)
 	(pad "1" thru_hole circle
 		(at 1.697056 1.697056)
@@ -171,7 +171,7 @@
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "124d63a9-6262-421d-a45b-d9c5f3a7bae0")
+		(uuid "9e3eaaca-d079-4ee4-9a21-d15c7298075c")
 	)
 	(pad "1" thru_hole circle
 		(at 2.4 0)
@@ -179,6 +179,6 @@
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "b63d4402-4f18-401a-81c2-3d5bc4ab3316")
+		(uuid "07cc3c2e-d886-4ccd-985e-33eddba4f9e6")
 	)
 )
