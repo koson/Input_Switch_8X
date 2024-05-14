@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
+	(property "Footprint" "MountingHole_2.5mm_Pad"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -115,5 +115,16 @@
 			(prefer_zone_connections yes)
 		)
 		(uuid "ae445110-200b-4c4a-a52b-1d865323d9e8")
+	)
+	(model "${KIPRJMOD}/3D/24.106.STEP"
+		(offset
+			(xyz 0 0 3.81)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )
